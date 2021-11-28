@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1560600102 source:c:\users\elbatool\desktop\c++\x o\main.cpp
+	<bits/stdc++.h>
+
+1440355786 c:\users\elbatool\desktop\c++\x o\mandelbrot.h
+
+1440355786 c:\users\elbatool\desktop\c++\x o\bitmap.h
+	<string>
+	<cstdint>
+	<memory>
+
+1442743904 c:\users\elbatool\desktop\c++\x o\zoom.h
+
+1560600102 source:c:\users\elbatool\desktop\c++\binary and text converter\main.cpp
+	<bits/stdc++.h>
+
